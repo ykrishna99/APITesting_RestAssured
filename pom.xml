@@ -10,8 +10,7 @@
 		<dependency>
 			<groupId>io.rest-assured</groupId>
 			<artifactId>rest-assured</artifactId>
-			<version>4.3.0</version>
-			<scope>test</scope>
+			<version>5.1.1</version>
 		</dependency>
 
 		<!-- https://mvnrepository.com/artifact/org.testng/testng -->
@@ -32,6 +31,13 @@
 			<groupId>org.apache.poi</groupId>
 			<artifactId>poi-ooxml</artifactId>
 			<version>4.1.2</version>
+		</dependency>
+		
+		<!-- https://mvnrepository.com/artifact/org.codehaus.groovy/groovy -->
+		<dependency>
+		    <groupId>org.codehaus.groovy</groupId>
+		    <artifactId>groovy</artifactId>
+		    <version>3.0.11</version>
 		</dependency>
 
 	</dependencies>
